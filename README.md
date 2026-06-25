@@ -1,3 +1,3 @@
 # Dsa-challenge
 this is my first git repository<br>
-Author-Chirayu kukkar
+Author-Chirayu (Don of ganganagar)
